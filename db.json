@@ -1,0 +1,101 @@
+[
+  {
+    "reqId": "test0",
+    "siteName": "전체",
+    "provision": "이용 & 제공",
+    "siteName": "전체",
+    "regTime": "2021-08-11 00:00:00.00",
+    "monthlyOffer": 2
+    "monthlyAccess": 52
+  },
+  {
+    "reqId": "test1",
+    "siteName": "전체",
+    "provision": "이용 & 제공",
+    "siteName": "전체",
+    "regTime": "2021-08-21 00:00:00.00",
+    "monthlyOffer": 4
+    "monthlyAccess": 197
+  },
+ {
+    "reqId": "test2",
+    "siteName": "전체",
+    "provision": "이용",
+    "siteName": "전체",
+    "regTime": "2021-08-31 00:00:00.00",
+    "monthlyOffer": 0
+    "monthlyAccess": 11
+  },
+ {
+    "reqId": "test3",
+    "siteName": "전체",
+    "provision": "이용 & 제공",
+    "siteName": "전체",
+    "regTime": "2021-08-01 00:00:00.00",
+    "monthlyOffer": 4
+    "monthlyAccess": 12
+  },
+ {
+    "reqId": "test4",
+    "siteName": "전체",
+    "provision": "제공",
+    "siteName": "전체",
+    "regTime": "2021-08-11 00:00:00.00",
+    "monthlyOffer": 4
+    "monthlyAccess": 87
+  },
+ {
+    "reqId": "test5",
+    "siteName": "전체",
+    "provision": "이용 & 제공",
+    "siteName": "전체",
+    "regTime": "2021-08-21 00:00:00.00",
+    "monthlyOffer": 1
+    "monthlyAccess": 93
+  },
+  {
+    "reqId": "test6",
+    "siteName": "전체",
+    "provision": "이용 & 제공",
+    "siteName": "전체",
+    "regTime": "2021-08-31 00:00:00.00",
+    "monthlyOffer": 2
+    "monthlyAccess": 52
+  },
+  {
+    "reqId": "test7",
+    "siteName": "전체",
+    "provision": "이용 & 제공",
+    "siteName": "전체",
+    "regTime": "2021-08-01 00:00:00.00",
+    "monthlyOffer": 4
+    "monthlyAccess": 197
+  },
+ {
+    "reqId": "test8",
+    "siteName": "전체",
+    "provision": "이용",
+    "siteName": "전체",
+    "regTime": "2021-08-11 00:00:00.00",
+    "monthlyOffer": 0
+    "monthlyAccess": 11
+  },
+ {
+    "reqId": "test9",
+    "siteName": "전체",
+    "provision": "이용 & 제공",
+    "siteName": "전체",
+    "regTime": "2021-08-21 00:00:00.00",
+    "monthlyOffer": 4
+    "monthlyAccess": 12
+  },
+ {
+    "reqId": "test10",
+    "siteName": "전체",
+    "provision": "제공",
+    "siteName": "전체",
+    "regTime": "2021-08-31 00:00:00.00",
+    "monthlyOffer": 4
+    "monthlyAccess": 87
+  }
+]
