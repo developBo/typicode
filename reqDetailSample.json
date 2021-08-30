@@ -1,1 +1,15 @@
-
+[
+  {
+    "reqId": "test0",
+    "siteId": 1234,
+    "siteName": "전체",
+    "details": "중계서비스 신청하는 목적 또는 이용 · 제공 여부에대한 상세설명 기재",
+    "provision": "이용, 제공",
+    "scope": "무료",
+    "interm": "사용",
+    "numeric": "사용",
+    "terms": "00",
+    "regTime": "2021-08-11 00:00:00.00",
+    "regAdmin": "admin"
+  }
+]
